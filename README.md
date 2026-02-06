@@ -64,7 +64,7 @@ scbe-promo/
 ## Contact
 
 - **Email**: [issdandavis@gmail.com](mailto:issdandavis@gmail.com)
-- **Twitter**: [@ISDanDavis2](https://twitter.com/ISDanDavis2)
+- **Twitter**: [@davisissac](https://x.com/davisissac)
 - **GitHub**: [@issdandavis](https://github.com/issdandavis)
 - **Sponsor**: [GitHub Sponsors](https://github.com/sponsors/issdandavis)
 
